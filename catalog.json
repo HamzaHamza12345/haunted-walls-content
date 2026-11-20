@@ -1,0 +1,202 @@
+{
+ "version": 1,
+ "categories": [
+  {
+   "id": "horror",
+   "title": "Horror",
+   "emoji": "🩸"
+  },
+  {
+   "id": "ghost",
+   "title": "Ghost",
+   "emoji": "👻"
+  },
+  {
+   "id": "dark",
+   "title": "Dark",
+   "emoji": "🌑"
+  }
+ ],
+ "wallpapers": [
+  {
+   "id": "horror/horror1",
+   "category": "horror",
+   "url": "images/horror/horror_001.jpg",
+   "thumb": "thumbs/horror/horror_001.jpg"
+  },
+  {
+   "id": "horror/horror2",
+   "category": "horror",
+   "url": "images/horror/horror_002.jpg",
+   "thumb": "thumbs/horror/horror_002.jpg"
+  },
+  {
+   "id": "horror/horror3",
+   "category": "horror",
+   "url": "images/horror/horror_003.jpg",
+   "thumb": "thumbs/horror/horror_003.jpg"
+  },
+  {
+   "id": "horror/horror4",
+   "category": "horror",
+   "url": "images/horror/horror_004.jpg",
+   "thumb": "thumbs/horror/horror_004.jpg"
+  },
+  {
+   "id": "horror/horror5",
+   "category": "horror",
+   "url": "images/horror/horror_005.jpg",
+   "thumb": "thumbs/horror/horror_005.jpg"
+  },
+  {
+   "id": "horror/horror6",
+   "category": "horror",
+   "url": "images/horror/horror_006.jpg",
+   "thumb": "thumbs/horror/horror_006.jpg"
+  },
+  {
+   "id": "horror/horror7",
+   "category": "horror",
+   "url": "images/horror/horror_007.jpg",
+   "thumb": "thumbs/horror/horror_007.jpg"
+  },
+  {
+   "id": "horror/horror8",
+   "category": "horror",
+   "url": "images/horror/horror_008.jpg",
+   "thumb": "thumbs/horror/horror_008.jpg"
+  },
+  {
+   "id": "horror/horror9",
+   "category": "horror",
+   "url": "images/horror/horror_009.jpg",
+   "thumb": "thumbs/horror/horror_009.jpg"
+  },
+  {
+   "id": "horror/horror10",
+   "category": "horror",
+   "url": "images/horror/horror_010.jpg",
+   "thumb": "thumbs/horror/horror_010.jpg"
+  },
+  {
+   "id": "ghost/ghost1",
+   "category": "ghost",
+   "url": "images/ghost/ghost_001.jpg",
+   "thumb": "thumbs/ghost/ghost_001.jpg"
+  },
+  {
+   "id": "ghost/ghost2",
+   "category": "ghost",
+   "url": "images/ghost/ghost_002.jpg",
+   "thumb": "thumbs/ghost/ghost_002.jpg"
+  },
+  {
+   "id": "ghost/ghost3",
+   "category": "ghost",
+   "url": "images/ghost/ghost_003.jpg",
+   "thumb": "thumbs/ghost/ghost_003.jpg"
+  },
+  {
+   "id": "ghost/ghost4",
+   "category": "ghost",
+   "url": "images/ghost/ghost_004.jpg",
+   "thumb": "thumbs/ghost/ghost_004.jpg"
+  },
+  {
+   "id": "ghost/ghost5",
+   "category": "ghost",
+   "url": "images/ghost/ghost_005.jpg",
+   "thumb": "thumbs/ghost/ghost_005.jpg"
+  },
+  {
+   "id": "ghost/ghost6",
+   "category": "ghost",
+   "url": "images/ghost/ghost_006.jpg",
+   "thumb": "thumbs/ghost/ghost_006.jpg"
+  },
+  {
+   "id": "ghost/ghost7",
+   "category": "ghost",
+   "url": "images/ghost/ghost_007.jpg",
+   "thumb": "thumbs/ghost/ghost_007.jpg"
+  },
+  {
+   "id": "ghost/ghost8",
+   "category": "ghost",
+   "url": "images/ghost/ghost_008.jpg",
+   "thumb": "thumbs/ghost/ghost_008.jpg"
+  },
+  {
+   "id": "ghost/ghost9",
+   "category": "ghost",
+   "url": "images/ghost/ghost_009.jpg",
+   "thumb": "thumbs/ghost/ghost_009.jpg"
+  },
+  {
+   "id": "ghost/ghost10",
+   "category": "ghost",
+   "url": "images/ghost/ghost_010.jpg",
+   "thumb": "thumbs/ghost/ghost_010.jpg"
+  },
+  {
+   "id": "dark/dark1",
+   "category": "dark",
+   "url": "images/dark/dark_001.jpg",
+   "thumb": "thumbs/dark/dark_001.jpg"
+  },
+  {
+   "id": "dark/dark2",
+   "category": "dark",
+   "url": "images/dark/dark_002.jpg",
+   "thumb": "thumbs/dark/dark_002.jpg"
+  },
+  {
+   "id": "dark/dark3",
+   "category": "dark",
+   "url": "images/dark/dark_003.jpg",
+   "thumb": "thumbs/dark/dark_003.jpg"
+  },
+  {
+   "id": "dark/dark4",
+   "category": "dark",
+   "url": "images/dark/dark_004.jpg",
+   "thumb": "thumbs/dark/dark_004.jpg"
+  },
+  {
+   "id": "dark/dark5",
+   "category": "dark",
+   "url": "images/dark/dark_005.jpg",
+   "thumb": "thumbs/dark/dark_005.jpg"
+  },
+  {
+   "id": "dark/dark6",
+   "category": "dark",
+   "url": "images/dark/dark_006.jpg",
+   "thumb": "thumbs/dark/dark_006.jpg"
+  },
+  {
+   "id": "dark/dark7",
+   "category": "dark",
+   "url": "images/dark/dark_007.jpg",
+   "thumb": "thumbs/dark/dark_007.jpg"
+  },
+  {
+   "id": "dark/dark8",
+   "category": "dark",
+   "url": "images/dark/dark_008.jpg",
+   "thumb": "thumbs/dark/dark_008.jpg"
+  },
+  {
+   "id": "dark/dark9",
+   "category": "dark",
+   "url": "images/dark/dark_009.jpg",
+   "thumb": "thumbs/dark/dark_009.jpg"
+  },
+  {
+   "id": "dark/dark10",
+   "category": "dark",
+   "url": "images/dark/dark_010.jpg",
+   "thumb": "thumbs/dark/dark_010.jpg"
+  }
+ ]
+}
